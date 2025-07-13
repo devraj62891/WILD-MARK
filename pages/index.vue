@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <Navbar/>
+        <Hero/>
+        <DemoProducts/>
+        <HuntingJacket/>
+        <WildlifePage/>
+        <HuntingCamping/>
+        <MountainPage/>
+        <Footer/>
+    </div>
+</template>
